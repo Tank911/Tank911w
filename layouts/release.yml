@@ -47,7 +47,7 @@ definitions:
         {%- set list = palette | selectattr("primary") | list + palette -%}
         {%- set palette = list | first -%}
       {%- endif -%}
-      {%- set primary = palette.get("primary", "indigo") -%}
+      {%- set primary = palette.get("primary", "blue") -%}
       {%- set primary = primary.replace(" ", "-") -%}
       {{ {
         "red":         "#ef5552",
@@ -84,7 +84,7 @@ definitions:
         {%- set list = palette | selectattr("primary") | list + palette -%}
         {%- set palette = list | first -%}
       {%- endif -%}
-      {%- set primary = palette.get("primary", "indigo") -%}
+      {%- set primary = palette.get("primary", "blue") -%}
       {%- set primary = primary.replace(" ", "-") -%}
       {{ {
         "red":         "#ffffff",

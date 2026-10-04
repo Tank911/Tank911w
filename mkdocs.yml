@@ -1,0 +1,22 @@
+site_name: Tank 911
+site_url: https://tank911.github.io/Tank911w
+
+theme:
+  name: material
+  custom_dir: overrides
+  icon:
+    logo: 
+  
+
+plugins:
+  - search
+  - meta
+  - social:
+      cards_layout: default/variant
+      cards_layout_options:
+        background_image: layouts/
+        background_color: transparent
+      cards_layout_dir: layouts
+
+watch:
+  - layouts

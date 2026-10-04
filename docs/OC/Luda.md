@@ -3,7 +3,7 @@ Is Use?:
  Tank 911: Yes
  Luda🔪: true (Original)
 Is Nothing?: 
- Tank 911: No
+ Tank 911: true (via original)
  Luda🔪: No
 Icon: 
 Can Kil?: 

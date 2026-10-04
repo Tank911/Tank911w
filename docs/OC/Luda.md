@@ -6,7 +6,7 @@ Is Nothing?:
  Tank 911: true (via original)
  Luda🔪: No
 Icon: 
-Can Kil?: 
+Can Kill?: 
  Tank 911: true (but false)
  Luda🔪: No
 ---

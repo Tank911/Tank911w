@@ -4,5 +4,7 @@ Is Use?:
  Luda🔪: true (Original)
 Is Nothing?: No
 Icon: 
-Can Kil?: No
+Can Kil?: 
+ Tank 911: true (but false)
+ Luda🔪: No
 ---

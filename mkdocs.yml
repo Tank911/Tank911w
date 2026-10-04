@@ -14,7 +14,7 @@ plugins:
   - social:
       cards_layout: default/variant
       cards_layout_options:
-        background_image: layouts/
+        background_image: layouts/Tak berjudul5453
         background_color: transparent
       cards_layout_dir: layouts
 

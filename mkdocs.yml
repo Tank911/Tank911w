@@ -5,7 +5,7 @@ theme:
   name: material
   custom_dir: overrides
   icon:
-    logo: 
+    logo: icon
   
 
 plugins:

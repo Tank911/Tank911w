@@ -10,3 +10,4 @@ Can Kill?:
  Tank 911: true (but false)
  Luda🔪: No
 ---
+![](https://raw.githubusercontent.com/Tank911/Tank911w/refs/heads/main/image/Tak%20berjudul5454.png)

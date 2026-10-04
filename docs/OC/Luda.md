@@ -11,3 +11,6 @@ Can Kill?:
  Luda🔪: No
 ---
 ![](https://raw.githubusercontent.com/Tank911/Tank911w/refs/heads/main/image/Tak%20berjudul5454.png)
+
+# Luda
+**Luda** Is one of Tank 911 only used.
